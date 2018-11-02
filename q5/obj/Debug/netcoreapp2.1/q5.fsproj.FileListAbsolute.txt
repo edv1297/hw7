@@ -1,0 +1,10 @@
+/Users/captaincode/Docs/School/ppl/programming/hw7/q5/bin/Debug/netcoreapp2.1/q5.deps.json
+/Users/captaincode/Docs/School/ppl/programming/hw7/q5/bin/Debug/netcoreapp2.1/q5.runtimeconfig.json
+/Users/captaincode/Docs/School/ppl/programming/hw7/q5/bin/Debug/netcoreapp2.1/q5.runtimeconfig.dev.json
+/Users/captaincode/Docs/School/ppl/programming/hw7/q5/bin/Debug/netcoreapp2.1/q5.dll
+/Users/captaincode/Docs/School/ppl/programming/hw7/q5/bin/Debug/netcoreapp2.1/q5.pdb
+/Users/captaincode/Docs/School/ppl/programming/hw7/q5/obj/Debug/netcoreapp2.1/q5.fsprojAssemblyReference.cache
+/Users/captaincode/Docs/School/ppl/programming/hw7/q5/obj/Debug/netcoreapp2.1/q5.AssemblyInfoInputs.cache
+/Users/captaincode/Docs/School/ppl/programming/hw7/q5/obj/Debug/netcoreapp2.1/q5.AssemblyInfo.fs
+/Users/captaincode/Docs/School/ppl/programming/hw7/q5/obj/Debug/netcoreapp2.1/q5.dll
+/Users/captaincode/Docs/School/ppl/programming/hw7/q5/obj/Debug/netcoreapp2.1/q5.pdb
