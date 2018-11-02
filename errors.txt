@@ -1,0 +1,46 @@
+1.
+"A parser combintor is therefore a simple function that does parsing. Why do we care that our functions be simple?"
+
+Mispelling of "combinator"
+
+2.
+"Because p1, p2, pbind, and presult also all take an i, and since we only every partially apply those functions..."
+
+Should be "only ever apply those..."
+
+3.
+"As a resul, it took me a little time to appreciate how much simpler partial application can make a program."
+
+Should be "As a result..."
+
+4.
+"This fact sheds light on the popularity of a another model for programming"
+
+Should be "popularity of another..."
+
+5.
+"Functional code forces us think about that data. The tradeoff is that we never have stale values floating around in objects."
+
+Should be "Functional code forces us to think..."
+
+6.
+"Lets’s build a small parser for parsing Well-formed English sentences."
+
+Should be "Let's build a..."
+
+7.
+"We also have parsers for uppercase only (pupper) and lowercase onle (plower)."
+
+Should be "and lowercase only..."
+
+8.
+"if you peek at the imlementation for the choice combinator,..."
+
+Should be "peek at the implementation for..."
+
+9.
+"In my experience, you are often deep into a parser design when you stumble across a syntatic construct..."
+
+Should be "across a syntactic..."
+
+
